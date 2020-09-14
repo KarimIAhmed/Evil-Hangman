@@ -1,0 +1,8 @@
+﻿  Driver.cpp
+  list.cpp
+c:\users\karim\desktop\evilhangman\evilhangman\list.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  node.cpp
+c:\users\karim\desktop\evilhangman\evilhangman\node.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\karim\desktop\evilhangman\evilhangman\node.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  EvilHangman.vcxproj -> C:\Users\Karim\Desktop\EvilHangman\Debug\EvilHangman.exe
